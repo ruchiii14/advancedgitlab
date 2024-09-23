@@ -10,6 +10,7 @@ public class Main {
         String name = scanner.nextLine();
         System.out.println("Hola " + name + " , que tal?");
         scanner.close();
+        System.out.println("Very nice to meet you!!!");
 
         System.out.println("New changes to see how stasg works");
     }
