@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world!");
         Date date = new Date();
         System.out.println(date.toString());
+        System.out.println("Very nice to meet you!!");
     }
 }
