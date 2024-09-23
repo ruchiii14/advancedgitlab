@@ -8,7 +8,7 @@ public class Main {
         System.out.println(date.toString());
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        System.out.println("Hola " + name);
+        System.out.println("Hola " + name + " , que tal?");
         scanner.close();
 
     }
