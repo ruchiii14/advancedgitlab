@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Hola " + name + " , que tal?");
         scanner.close();
 
+        System.out.println("New changes to see how stasg works");
     }
 
 }
